@@ -1,0 +1,22 @@
+{
+  "name": "es6_babel_browserify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.9",
+    "@babel/preset-env": "^7.16.11",
+    "browserify": "^17.0.0"
+  },
+  "dependencies": {
+    "core-js": "^3.21.1",
+    "jquery": "^3.6.0"
+  }
+}
